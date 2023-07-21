@@ -1,4 +1,6 @@
 # Code signing with Software Trust Manager
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpaulinapaz%2Fssm-code-signing.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpaulinapaz%2Fssm-code-signing?ref=badge_shield)
+
 
 Code Signing with Software Trust Manager GitHub action is a streamlined keypair-based signing workflow that improves software security and seamlessly integrates with DevOps processes to sign binaries on **Windows** and **Linux**.
 
@@ -73,3 +75,7 @@ For comprehensive documentation, refer to:
 
 ## Learn more
 To learn more about centralizing and automating your code signing workflows with Software Trust Manager, reach out to [Sales/Enquiry](mailto:sales@digicert.com) or visit: https://www.digicert.com/signing/secure-software-manager.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpaulinapaz%2Fssm-code-signing.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpaulinapaz%2Fssm-code-signing?ref=badge_large)
